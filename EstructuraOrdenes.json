@@ -1,0 +1,23 @@
+{
+"orderId":15487,
+"Adress": "Callao 454",
+"Status":"En preparacion",
+"Articles": [
+    {
+    "Name":"Computadora",
+    "Quantity":2,
+    "Dangerous":false,
+        }
+        {
+    "Name":"telefono",
+    "Quantity":3,
+    "Dangerous":false,
+        }
+        {
+    "Name":"Baterias",
+    "Quantity":5,
+    "Dangerous":true,
+        }
+
+]
+}
